@@ -201,7 +201,8 @@ img {
 }
 .home__social {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 15px;
 }
 .home__social-icon {
   width: max-content;
